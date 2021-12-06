@@ -23,9 +23,7 @@ The final project for CSCI2000U
 
 
 ## Acknowledgements
-“This project was submitted as the final course project for CSCI 2000U “Scientific 
-Data Analysis” during Fall 2021. The authors certify that the work in this 
-repository is original and that all appropriate resources are rightfully cited.”
+This project was submitted as the final course project for CSCI 2000U “Scientific Data Analysis” during Fall 2021. The authors certify that the work in this repository is original and that all appropriate resources are rightfully cited.
 
 ## “Traditional” readme section
 Please use the Pyhton Jupyter Notebook to open the file and run the code cell one by one from top to bottem
