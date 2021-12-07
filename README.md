@@ -1,7 +1,7 @@
 # CSCI2000U-G1-Final-Proj
 The final project for CSCI2000U
 
-## Title
+
 ## Are Your Kids at risk surfing the Google Play Store?
 
 
