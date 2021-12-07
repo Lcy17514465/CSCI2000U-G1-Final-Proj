@@ -31,8 +31,7 @@ We found that there was a positive correlation between reviews and installations
 We conclude that developers are abusing the “Family” category as a way of getting their applications seen by the user with the biggest average screen time, the child. However, this may lead to your child seeing content you would not want them to see, as it seems that Google does not want to enforce proper categorization. However, this is all dependent on the dataset being consistent with the actualities of the real data that Google keeps hidden from public view. 
 
 ### Refinement
-
-
+In order to get a more accurate model, it would have been best to have access to average screen-time, and ages of users who have installed the applications. This would be beneficial as our conclusions could be verified to a greater extent. In addition, a more accurate method of determining whether a user effectively interacted with the application in any sort of manner, would have benefited us as we could determine whether or not a review was legitimate, or fake. Another issue that could have been resolved, was obtaining a proper number of installations instead of an average, as then we would have not had to use reviews as a substitute.
 
 
 ## Acknowledgements
