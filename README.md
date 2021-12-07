@@ -23,10 +23,10 @@ Fadi Chamas - Fadi Chamas
 
 
 ## Conclusion
-| “App”  |the application’s name/title   |
-|   |   |
-|   |   |
-|   |   | 
+| App  |the application’s name/title|
+| Category  |   |
+|  Rating | how the application is categorized within the Google Play Store  |
+| Reviews  |   overall user rating of the application in the Google Play Store | 
 
 
 
