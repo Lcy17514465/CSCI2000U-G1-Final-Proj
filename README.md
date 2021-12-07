@@ -17,8 +17,8 @@ Fadi Chamas - Fadi Chamas
 
 ## Introduction
 * 
-* 
-* 
+* The dataset that we used is google-play-store-apps.csv, its address is https://www.kaggle.com/lava18/google-play-store-apps?select=googleplaystore.csv, this dataset also provided its license http://creativecommons.org/licenses/by/3.0/.
+
 ## Discussion
 
 
