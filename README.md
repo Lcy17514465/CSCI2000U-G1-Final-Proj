@@ -2,7 +2,7 @@
 The final project for CSCI2000U
 
 
-## Are Your Kids at risk surfing the Google Play Store?
+# Are Your Kids at risk surfing the Google Play Store?
 
 
 ## About us
