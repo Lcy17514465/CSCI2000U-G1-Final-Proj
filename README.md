@@ -23,10 +23,25 @@ Fadi Chamas - Fadi Chamas
 
 
 ## Conclusion
+| “App”  |the application’s name/title   |
+|   |   |
+|   |   |
+|   |   | 
 
 
 
-
+“App” - the application’s name/title
+	“Category” - how the application is categorized within the Google Play Store
+	“Rating” - overall user rating of the application in the Google Play Store
+“Reviews” - total number of reviews submitted by Google Play Store Users for the application
+“Size” - Amount of storage space in bytes the application needs to be available in order to be installed
+“Installs” - number of Google Play Store users who downloaded the application
+“Type” - whether the application is free or needs a fee to be paid in order to be downloaded (entries are either “Paid” or “Free” under this attribute)
+“Price” - the price of the application (“0” if free)
+“Content Rating” - the age groups the application targets
+“Genre” - the genre the application belongs to
+“Last Updated” - date the application was last updated
+“Current Ver” - current version of the application that is available for installation on the Google Play Store
 
 
 
