@@ -23,9 +23,7 @@ Fadi Chamas - Fadi Chamas
 
 
 ## Conclusion
-| Default       	    | Description |
-|:-------------------:| ----------- |
-| `false`           	| Whether the received HR data will be logged |
+
 
 
 
